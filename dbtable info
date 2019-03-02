@@ -1,0 +1,52 @@
+user
+-----
+id
+name
+email
+phno
+password
+status
+role
+verifedOn
+createdby
+createdOn
+updateby
+updatedOn
+
+
+user_role
+---------
+id
+role_code
+role_name
+
+address
+--------
+id
+addressLine1
+addressLine2
+city
+state
+country
+pin
+user_id
+
+
+mastertables
+------------
+
+country
+-------
+id
+country name
+
+state
+------
+id
+state name
+
+city
+-----
+id
+city name
+state id
